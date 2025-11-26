@@ -1,0 +1,15 @@
+pinecone
+langchain
+huggingface-hub
+pdfplumber
+tiktoken
+langchain-text-splitters
+langchain_pinecone
+langchain_huggingface
+sentence-transformers
+pinecone-client
+sentence-transformers
+pdfplumber
+huggingface_hub
+numpy
+tqdm
