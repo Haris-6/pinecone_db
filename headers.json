@@ -1,0 +1,27 @@
+[
+    {
+        "api_name": "User API",
+        "auth_type": "Bearer Token",
+        "endpoint": "/user"
+    },
+    {
+        "api_name": "Payment API",
+        "auth_type": "API Key",
+        "endpoint": "/payment"
+    },
+    {
+        "api_name": "Notification API",
+        "auth_type": "OAuth2",
+        "endpoint": "/notify"
+    },
+    {
+        "api_name": "Analytics API",
+        "auth_type": "OAuth2",
+        "endpoint": "/analytics"
+    },
+    {
+        "api_name": "Reporting API",
+        "auth_type": "Basic Auth",
+        "endpoint": "/report"
+    }
+]
